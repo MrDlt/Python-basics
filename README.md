@@ -1,2 +1,3 @@
 # Python-basics
-Based on the course on Huawei-ilearningx platform.
+Based on a course on Huawei-ilearningx platform.
+纯手打。
